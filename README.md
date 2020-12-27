@@ -10,5 +10,5 @@ a) Frame synchronization or coarse time synchronization: The task of frame synch
 
 b) Symbol synchronization or fine time synchronization: The symbol synchronization task is used to identify the beginning of the OFDM symbol in a bit stream. Symbol synchronization consists of positioning the FFT window on the received sample stream.
 
-# Authors 
+# Author
 Ahmed ALI
